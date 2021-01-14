@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GMSSL",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "lif68",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GMSSL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

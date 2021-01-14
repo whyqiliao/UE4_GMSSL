@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GMSSL.cpp.obj": [
+			"GMSSL.cpp.obj",
+			"libcryptAPIsmObject.cpp.obj"
+		],
+		"Module.GMSSL.gen.cpp.obj": [
+			"GMSSL.init.gen.cpp.obj",
+			"libcryptAPIsmObject.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GMSSL.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\CGB_VR\Intermediate\Build\Win64\CGB_VREditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Projects\CGB_VR\Plugins\GMSSL\Intermediate\Build\Win64\UE4Editor\Development\GMSSL\Module.GMSSL.cpp.obj"
+"D:\Projects\CGB_VR\Plugins\GMSSL\Intermediate\Build\Win64\UE4Editor\Development\GMSSL\Module.GMSSL.gen.cpp.obj"
+"D:\Projects\CGB_VR\Plugins\GMSSL\Intermediate\Build\Win64\UE4Editor\Development\GMSSL\PCLaunch.rc.res"
+/OUT:"D:\Projects\CGB_VR\Plugins\GMSSL\Intermediate\Build\Win64\UE4Editor\Development\GMSSL\UE4Editor-GMSSL.lib"
